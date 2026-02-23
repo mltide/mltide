@@ -4,8 +4,8 @@ I'm Machine Learning Engineer, passionate about applying AI to real-world proble
 ### 🔬 Focus areas
 - Classical ML models
 - Time Series Analysis (TSA)  
-- Natural language processing (NLP)
-- Computer vision (CV)  
+- Natural Language Processing (NLP)
+- Computer Vision (CV)  
 
 ### 🧰 Tech stack
 Python · PyTorch · Scikit-learn · NumPy · Pandas · Matplotlib · Seaborn · SciPy · Git
